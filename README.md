@@ -27,8 +27,21 @@ I love building modern, responsive, and user-friendly web applications.
 ---
 
 ## 📈 GitHub Stats
-![Protiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=protivaghosh&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=protivaghosh&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=protivaghosh&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=protivaghosh&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=protivaghosh&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=protivaghosh&style=flat-square" />
+</p>
 
 ---
 
