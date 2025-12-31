@@ -1,3 +1,6 @@
+<!-- Banner Image -->
+![Banner](https://i.ibb.co/Q7b7bLRF/Chat-GPT-Image-Dec-31-2025-05-11-16-PM.png)
+
 # 👋 Hi, I'm Protiva Ghosh
 
 ### 🚀 Web Developer | MERN Stack | Frontend & Backend Enthusiast
@@ -26,6 +29,13 @@ I love building modern, responsive, and user-friendly web applications.
 
 ---
 
+## 🔭 Current Activities
+- Exploring **Next.js** for modern web apps
+- Working on a **tourism website project**
+- Contributing to **open-source projects**
+
+---
+
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=protivaghosh&show_icons=true&theme=tokyonight" />
@@ -47,7 +57,9 @@ I love building modern, responsive, and user-friendly web applications.
 
 ## 🌐 Connect With Me
 - **GitHub:** [https://github.com/protivaghosh](https://github.com/protivaghosh)
-- **Email:** [protivaghosh50@gmail.com](mailto:protivaghosh50@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/protivaghosh/](https://www.linkedin.com/in/protivaghosh/)
+- **Email:** [protivaghosh30@gmail.com](mailto:protivaghosh30@gmail.com)
+- **Phone / WhatsApp:** +8801647745027
 
 ---
 
