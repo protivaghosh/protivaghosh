@@ -5,7 +5,7 @@
 
 ### 🚀 Web Developer | MERN Stack | Frontend & Backend Enthusiast
 
-I'm a passionate Web Developer from **KHULNA, Bangladesh**.  
+I'm a passionate Web Developer from **Khulna, Bangladesh**.  
 I love building modern, responsive, and user-friendly web applications.
 
 ---
